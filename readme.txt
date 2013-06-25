@@ -59,11 +59,12 @@ In order to help promote your site you can pimp your list at listicle.us.  In yo
 
 == Screenshots ==
 
-1. screenshot-1.jpg
-2. screenshot-2.jpg
+
 
 == Changelog ==
 
 
 = 0.1 =
 This version is beta.  Feedback greatly appreciated.
+
+== Upgrade Notice ==
