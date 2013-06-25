@@ -19,7 +19,7 @@ Features:
 * SEO-friendly pages for each list item
 * Manage multiple posts from within a single post
 * Generate better page views using lists
-* Promote your listicles and list items individuall on all your favorite social sites and on listicle.us 
+* Promote your listicles and list items individually on all your favorite social sites and on listicle.us 
 
 == Installation ==
 
