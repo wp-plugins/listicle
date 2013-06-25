@@ -1,0 +1,29 @@
+/**
+ * This file is part of listicle. Please see the listicle.php file for
+ * copyright and license information.
+ *
+ * @author Sasha Gorelik
+ * @version 0.1
+ */
+
+.previousnext .listicle_list_parent {
+	font-weight: bold;
+	font-size:150%;
+	list-style:none;
+	padding-top: 5px;
+}
+
+.listicle_list_excerpt {
+	font-weight: bold;
+	font-size:120%;
+}
+
+.listicle_item_link {
+	font-weight:bold;
+	font-size:115%;
+}
+
+
+a.listicle_parent_link { text-decoration: underline; font-size:100% }
+a.listicle_parent_link:link, a.listicle_parent_link:visited {text-decoration: underline;  }
+a.listicle_parent_link:focus, a.listicle_parent_link:hover, a.listicle_parent_link:active {  text-decoration: none; }
