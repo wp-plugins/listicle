@@ -67,4 +67,8 @@ In order to help promote your site you can pimp your list at listicle.us.  In yo
 = 0.1 =
 This version is beta.  Feedback greatly appreciated.
 
+= 0.2 =
+Minor fix to get versioning synched.
+
+
 == Upgrade Notice ==
