@@ -1,6 +1,6 @@
 === Plugin Name ===
 Contributors: alxgrlk
-Tags: lists, listicle, shortcode, SEO, post, posts, page, paginate, pageviews, links, admin
+Tags: lists, listicle, shortcode, SEO, post, posts, page, paginate, pageviews, links, admin, plugin
 Requires at least: 3.0.1
 Tested up to: 3.5.1
 Stable tag: 0.2
