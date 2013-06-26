@@ -3,7 +3,7 @@
 Plugin Name: listicle
 Plugin URI: http://listicle.us/about/?page_id=5
 Description: listicle generator
-Version: 0.2
+Version: 0.3
 Author: alxgrlk
 Author URI: http://listicle.us
 License: GPL2
