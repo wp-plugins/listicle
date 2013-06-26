@@ -4,7 +4,7 @@ Plugin Name: listicle
 Plugin URI: http://listicle.us/about/?page_id=5
 Description: listicle generator
 Version: 0.2
-Author: sasha
+Author: alxgrlk
 Author URI: http://listicle.us
 License: GPL2
 */
@@ -478,6 +478,14 @@ $i=$i+1; //add i plus one to make it a real array
 $itemNameCounter = 1;
 foreach($arr as $val){
 
+
+//replace <B> with <strong>
+$val = str_ireplace (  "<b>" , "<strong>",$val);
+//replace </B> with </strong>
+$val = str_ireplace ( "</b>" , "</strong>",$val);
+
+
+//we use the <strong> tag to identify the post title
 $titleArr=explode("<strong>",$val); //Breaks <strong>
 //echo "count of titleArr: " .count($titleArr);
 if(count($titleArr)==1) {
